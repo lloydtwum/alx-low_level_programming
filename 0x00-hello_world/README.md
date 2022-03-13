@@ -1,1 +1,1 @@
-this scriptcompiles a C file but does not link
+ a script that generates the assemble code of a C code
