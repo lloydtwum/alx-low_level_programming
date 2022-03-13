@@ -1,1 +1,1 @@
-this compiles a C file an creates an exe named cisfun
+this script prints exactly programming is like building a multilingual puzzle
