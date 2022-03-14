@@ -1,1 +1,1 @@
-this prints all possible different combinations of two digits
+ prints all possible different combinations of three digits.
