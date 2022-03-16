@@ -1,1 +1,1 @@
-this prints astatement and return 0
+this prints  alphabet, in lowercase, followed by a new line
